@@ -32,6 +32,10 @@ Currently exploring React, Flask, Git/GitHub, and other tools to become a better
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohanaXpal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" width="49%" />
 </p>
 
+# Activity Graph
+<a href="https://github.com/mohanaXpal">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanaXpal&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%">
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
