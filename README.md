@@ -32,7 +32,7 @@ Currently exploring React, Flask, Git/GitHub, and other tools to become a better
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohanaXpal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" width="49%" />
 </p>
 
-# Activity Graph
+# Activity Graph <img align="right" src="https://github.com/mohanaXpal/mohanaXpal/blob/main/200.webp" height="60px" width="70px"/>
 <a href="https://github.com/mohanaXpal">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanaXpal&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%">
 </a>
