@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hello Everyone , I am Mohana 
+<h2 align="center">Welcome to my Github profile</h2>
 I'm a student currently learning Web Development and Python, with a focus on understanding the fundamentals and building projects along the way. I enjoy turning what I learn into small, practical projects and improving them step by step.
 
 
