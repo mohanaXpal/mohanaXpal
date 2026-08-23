@@ -26,13 +26,18 @@ Currently exploring React, Flask, Git/GitHub, and other tools to become a better
 
 #  Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<hr>
+
 #  GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=mohanaXpal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180" width="49%"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohanaXpal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180" width="49%" />
 </p>
 
-# Activity Graph <img align="right" src="https://github.com/mohanaXpal/mohanaXpal/blob/main/200.webp" height="60px" width="70px"/>
+<hr>
+
+# Activity Graph: <img align="right" src="https://github.com/mohanaXpal/mohanaXpal/blob/main/200.webp" height="60px" width="70px"/>
 <a href="https://github.com/mohanaXpal">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanaXpal&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%">
 </a>
